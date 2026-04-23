@@ -67,18 +67,12 @@ Make sure you have the following installed:
 
 ---
 
-## Demo
- Watch the demo of CroPred on YouTube:
- https://youtu.be/hQvSL3m4tbY
-
----
-
 ## Author
 
 **Team D-Generation X**  
 Project maintained and developed with ❤️
 
-This project was developed as for SIH '25 by **Sarvagya Dwivedi** & Team D-generation X.
+This project was developed as for SIH '25 by **Piyush Priyadarshi** & Team D-generation X.
 
 
 
